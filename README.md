@@ -28,3 +28,21 @@
 
 This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
+
+## Índice
+- [Introdução](#introdução)
+- [Como Usar](#como-usar)
+- [Exemplos](#exemplos)
+- [Referências](#referências)
+
+## Introdução
+Este é o começo do meu documento.
+
+## Como Usar
+Aqui estão as instruções sobre como usar o meu aplicativo.
+
+## Exemplos
+Alguns exemplos de código.
+
+## Referências
+Links úteis e referências adicionais.
