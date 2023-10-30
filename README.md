@@ -28,6 +28,11 @@ sudo apt-get install -y protobuf-compiler
 protoc --version
 ```
 
+# Gerar os stubs para o gRPC
+
+protoc --go_out=. --go-grpc_out=. proto/course_category.proto
+
+
 
 
 
