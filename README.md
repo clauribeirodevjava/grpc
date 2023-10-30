@@ -24,3 +24,7 @@
 | Item 1       | Item A       |
 | Item 2       | Item B       |
 | Item 3       | Item C       |
+
+
+This is a <sub>subscript</sub> text
+This is a <sup>superscript</sup> text
