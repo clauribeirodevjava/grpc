@@ -50,6 +50,6 @@ Links úteis e referências adicionais.
 # Como Usar
 Aqui estão as instruções sobre como usar o meu aplicativo.
 
-- [x] [#739](https://github.com/clauribeirodevjava/grpc/issues/1#issue-1967380355)
+- [ ] [https://github.com/clauribeirodevjava/grpc/issues/1#issue-1967380355)](https://github.com/clauribeirodevjava/grpc/issues/1#issue-1967380355)
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
