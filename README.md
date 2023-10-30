@@ -22,8 +22,12 @@
 
 # Instalação
 ## protobuf
-
+```
 sudo apt-get install -y protobuf-compiler
+
+protoc --version
+```
+
 
 
 
