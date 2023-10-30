@@ -14,6 +14,8 @@
       - C++
       - Python
       - ...etc
+
+  
   **RPC ilustração**
 
 ![](image/clientserver.png)
