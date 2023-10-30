@@ -19,19 +19,8 @@
   **RPC ilustração**
 
 ![](image/clientserver.png)
-<div style="display: flex;">
-  <div style="flex: 1; padding: 5px;">
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding: 5px;">
-    <ul>
-      <li>Item A</li>
-      <li>Item B</li>
-      <li>Item C</li>
-    </ul>
-  </div>
-</div>
+| Lista 1      | Lista 2      |
+|--------------|--------------|
+| Item 1       | Item A       |
+| Item 2       | Item B       |
+| Item 3       | Item C       |
