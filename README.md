@@ -46,3 +46,36 @@ Alguns exemplos de código.
 
 ## Referências
 Links úteis e referências adicionais.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Como Usar
+Aqui estão as instruções sobre como usar o meu aplicativo.
