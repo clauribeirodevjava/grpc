@@ -15,4 +15,5 @@
       - Python
       - ...etc
   **RPC ilustração**
-[teste](image/clientserver.png)
+
+![](image/clientserver.png)
