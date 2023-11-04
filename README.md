@@ -64,62 +64,13 @@ service CategoryService {
 ```
 protoc --go_out=. --go-grpc_out=. proto/course_category.proto
 ```
-#Vai gerar os stubs como abaixo(prjeto atual)
-`syntax = "proto3";
-package pb;
-option go_package = "internal/pb";
-
-message Category {
-    string id = 1;
-    string nome = 2;
-    string description = 3;
-}
-message CreateCategoryRequest{
-    string name = 1;
-    string description = 2;
-}
-message CategoryResponse {
-    Category category = 1;
-}
-
-service CategoryService {
-    rpc CreateCategory(CreateCategoryRequest) returns (CategoryResponse){}
-}
-``
-```
+#Vai gerar os stubs 
 
 
 
 
 
 
-| Lista 1      | Lista 2      |
-|--------------|--------------|
-| Item 1       | Item A       |
-| Item 2       | Item B       |
-| Item 3       | Item C       |
-
-
-This is a <sub>subscript</sub> text
-This is a <sup>superscript</sup> text
-
-## Índice
-- [Introdução](#introdução)
-- [Como Usar](#como-usar)
-- [Exemplos](#exemplos)
-- [Referências](#referências)
-
-## Introdução
-Este é o começo do meu documento.
-
-## Como Usar
-Aqui estão as instruções sobre como usar o meu aplicativo.
-
-## Exemplos
-Alguns exemplos de código.
-
-## Referências
-Links úteis e referências adicionais.
 
 # Como Usar
 Aqui estão as instruções sobre como usar o meu aplicativo.
