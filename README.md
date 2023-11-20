@@ -43,7 +43,7 @@ option go_package = "internal/pb";
 
 message Category {
     string id = 1;
-    string nome = 2;
+    string name = 2;
     string description = 3;
 }
 message CreateCategoryRequest{
