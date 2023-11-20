@@ -30,7 +30,7 @@ protoc --version
 
 # Gerar os stubs para o gRPC
 
-protoc --go_out=. --go-grpc_out=. proto/course_category.proto
+
 
 #Copiar os datasources do projeto graphQL
 
